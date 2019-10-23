@@ -2,7 +2,7 @@
 by: Armote Somboonkaew armote@nectec.or.th
 
 **chemkid**
-- a folder of chemkid source code
+- The folder of chemkid source code
 
 **chemkidplugins.zip**
-- a zip file for adding plugins to KidBright IDE
+- The zip file of plugins for adding to KidBright IDE
